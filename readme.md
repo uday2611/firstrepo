@@ -1,7 +1,0 @@
-hi this is my first txt file
-
-
-this is after  first commit
-
-
-firsy file
